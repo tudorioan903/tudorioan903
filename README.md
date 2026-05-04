@@ -1,4 +1,4 @@
-# 💥 Hi, I'm Ioan-Gabriel Tudor 👋
+# 💥 Hi, I'm Ioan-Gabriel Tudor 
 
 Aspiring Data Analyst with 4 years of experience working with KPIs, reporting, and operational data. Worked across multiple European markets (Germany, Austria, Switzerland, Belgium), adapting reporting and operational processes to different environments
 
