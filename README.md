@@ -1,12 +1,12 @@
 # 💥 Hi, I'm Ioan-Gabriel Tudor!
 
-Aspiring Data Analyst with 4 years of experience working with KPIs, reporting, and operational data. Worked across multiple European markets (Germany, Austria, Switzerland, Belgium), adapting reporting and operational processes to different environments
+Data Analyst with 4 years of experience working with KPIs, reporting, and operational data. Worked across multiple European markets (Germany, Austria, Switzerland, Belgium), adapting reporting and operational processes to different environments
 
 ## 🔧 Skills
-- SQL (SSMS, SQL Server)
+- SQL (Joins, GROUP BY, aggregations, filtering, data extraction and transformation  )
 - Excel (data analysis, dashboards)
 - Tableau (data visualization)
-- Python (learning pandas & matplotlib)
+- Python (pandas & matplotlib)
 
 ## 📊 Projects
 
@@ -21,3 +21,5 @@ Aspiring Data Analyst with 4 years of experience working with KPIs, reporting, a
 - LinkedIn: [View Profile](https://www.linkedin.com/in/ioan-gabriel-tudor-9b43a1385/)
 - Phone Number: +40770374920
 - E-Mail: tudorioan903@yahoo.ro
+
+💼 Open to Data Analyst roles
