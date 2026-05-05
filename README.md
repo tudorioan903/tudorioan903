@@ -3,7 +3,7 @@
 Data Analyst with 4 years of experience working with KPIs, reporting, and operational data. Worked across multiple European markets (Germany, Austria, Switzerland, Belgium), adapting reporting and operational processes to different environments
 
 ## 🔧 Skills
-- SQL (Joins, GROUP BY, aggregations, filtering, data extraction and transformation  )
+- SQL (Joins, GROUP BY, aggregations, filtering, data extraction and transformation)
 - Excel (data analysis, dashboards)
 - Tableau (data visualization)
 - Python (pandas & matplotlib)
