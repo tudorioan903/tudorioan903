@@ -22,4 +22,6 @@ Data Analyst with 4 years of experience working with KPIs, reporting, and operat
 - Phone Number: +40770374920
 - E-Mail: tudorioan903@yahoo.ro
 
-💼 Open to Data Analyst roles
+
+
+## 💼 Open to Data Analyst roles
