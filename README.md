@@ -24,4 +24,4 @@ Data Analyst with 4 years of experience working with KPIs, reporting, and operat
 
 
 
-## 💼 Open to Data Analyst roles
+### 💼 Open to Data Analyst roles
