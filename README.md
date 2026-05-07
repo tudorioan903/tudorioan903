@@ -7,6 +7,7 @@ Data Analyst with 4 years of experience working with KPIs, reporting, and operat
 - Excel (data analysis, dashboards)
 - Tableau (data visualization)
 - Python (pandas & matplotlib)
+- Proven German language skills
 
 ## 📊 Projects
 
